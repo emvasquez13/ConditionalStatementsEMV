@@ -1,7 +1,8 @@
 ﻿//Author: Elliot Vasquez
 // ISM 4200 Assignment #2B
 //Comments: This C# console application demonstrates the execution of a conditional statement
-//           after a user inputs the letter grade of their desire.
+//           after a user has input the a numeric grade of their desire. That numeric grade will translate
+//              a letter grade.
 
 using System;
 
